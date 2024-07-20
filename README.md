@@ -1,14 +1,6 @@
 # ProteoParc_Colab
 A Colab Implementation of PalaeoParc by Guillermo Carrillo Martín 
 
-Based on the additional information you provided, I will update the README file to reflect the new setup instructions and include information about the script and the button interface you mentioned.
-
-Here is the updated README file:
-
----
-
-# ProteoParc in Colab
-
 ## Overview
 
 **ProteoParc in Colab** is a Jupyter notebook designed to facilitate the analysis of ancient proteins using Google Colab. This notebook provides a streamlined and accessible environment for performing proteomics research, particularly focusing on the analysis of proteins extracted from archaeological samples. The notebook includes scripts and a user-friendly button interface to simplify the workflow.
